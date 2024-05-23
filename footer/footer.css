@@ -1,0 +1,16 @@
+footer{
+    padding: 5rem;
+    background-color: #d3c0ef;
+}
+
+h1{
+    font-size: 2.8rem;
+    color: hsl(292, 45%, 30%);
+    text-align: center;
+
+    background-color: #f3e2f9;
+    padding: 1.5rem;
+    font-family: cursive;
+    font-style: italic;
+}
+
