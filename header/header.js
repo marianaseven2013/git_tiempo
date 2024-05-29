@@ -1,10 +1,14 @@
-let sof_hder = document.querySelector(".header");
+let hder = document.querySelector(".header");
 
-sof_hder.innerHTML = `
+hder.innerHTML = `
 
-    <h1 class ="inicio">Bienvenidos</h1>
-    <div class ="logo">
-    <img src="https://elegantquill.com/cdn/shop/products/business-logo-design-GS-initials.png?v=1670269433" alt="">
-    </div>
+
+
+<h1 class="titulo" >Comandos <span>Git</span></h1>
+
+<a href="https://github.com/marianaseven2013/git_tiempo" class="btn-github">github</a>
+
+
+
 
 `;
